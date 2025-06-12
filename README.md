@@ -12,23 +12,22 @@ Este repositório contém os testes de performance realizados com o Apache JMete
 - `Imagens/` → Prints dos testes, configurações e evidências visuais.
 - `README.md` → Este arquivo de documentação.
 
-> A pasta `Resultados/` foi removida do repositório por conter arquivos grandes e foi adicionada ao `.gitignore`.
-
 ## Objetivo dos testes
 
 Avaliar a performance e estabilidade da aplicação Stratega sob diferentes cargas de usuários simultâneos, simulando:
 
 - Carga moderada (ex: 50 usuários)
 - Estresse elevado (ex: 200 usuários)
-- Carga contínua por longos períodos
+- Carga contínua por 30 minutos
 
 ## Ferramentas utilizadas
 
 - [Apache JMeter](https://jmeter.apache.org/) v5.6.3
-- Navegador Google Chrome (execução do sistema)
+- BlazeMeter v 6.6.7
+- Navegador Google Chrome
 - Windows 10
 
 ## Autor
 
 Gabriella Braz — Analista de QA Jr  
-📧 Contato: [seu-email@exemplo.com]
+📧 Contato: [gabriella.braz@quattrus.com]
