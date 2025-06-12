@@ -1,6 +1,6 @@
 # Teste de Estresse - STG
 
-Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de homologação (STG) da aplicação Stratega.
+Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de teste (STG) da aplicação Stratega.
 
 ## Ambiente testado
 
