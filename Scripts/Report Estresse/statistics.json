@@ -1,0 +1,50 @@
+{
+  "http://map.sit.internal-quattrus.com/editor" : {
+    "transaction" : "http://map.sit.internal-quattrus.com/editor",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.26499999999999,
+    "medianResTime" : 41.0,
+    "minResTime" : 39.0,
+    "maxResTime" : 74.0,
+    "pct1ResTime" : 49.900000000000006,
+    "pct2ResTime" : 55.0,
+    "pct3ResTime" : 62.0,
+    "throughput" : 39.87240829346093,
+    "receivedKBytesPerSec" : 370.8834853468899,
+    "sentKBytesPerSec" : 14.99109100877193
+  },
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.26499999999999,
+    "medianResTime" : 41.0,
+    "minResTime" : 39.0,
+    "maxResTime" : 74.0,
+    "pct1ResTime" : 49.900000000000006,
+    "pct2ResTime" : 55.0,
+    "pct3ResTime" : 62.0,
+    "throughput" : 39.864460833167236,
+    "receivedKBytesPerSec" : 370.80955999601355,
+    "sentKBytesPerSec" : 14.9881029499701
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.26499999999999,
+    "medianResTime" : 41.0,
+    "minResTime" : 39.0,
+    "maxResTime" : 74.0,
+    "pct1ResTime" : 49.900000000000006,
+    "pct2ResTime" : 55.0,
+    "pct3ResTime" : 62.0,
+    "throughput" : 39.87240829346093,
+    "receivedKBytesPerSec" : 370.8834853468899,
+    "sentKBytesPerSec" : 14.99109100877193
+  }
+}
