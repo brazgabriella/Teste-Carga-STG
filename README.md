@@ -30,4 +30,4 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 ## Autor
 
 Gabriella Braz — Analista de QA Jr  
-📧 Contato: [gabriella.braz@quattrus.com]
+📧 E-mail:gabriella.braz@quattrus.com
