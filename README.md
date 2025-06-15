@@ -16,9 +16,17 @@ Este repositório contém os testes de performance realizados com o Apache JMete
 
 Avaliar a performance e estabilidade da aplicação Stratega sob diferentes cargas de usuários simultâneos, simulando:
 
-- Carga moderada (ex: 50 usuários)
-- Estresse elevado (ex: 200 usuários)
-- Carga contínua por 30 minutos
+## 1° Teste:
+- Carga moderada (50 usuários)
+- Estresse elevado (200 usuários)
+- Carga contínua por 60 minutos
+
+## 2° Teste:
+- Carga moderada (xxx usuários)
+- Estresse elevado (xxx usuários)
+- Carga contínua por (xxx minutos)
+
+
 
 ## Ferramentas utilizadas
 
