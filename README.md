@@ -2,6 +2,14 @@
 
 Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de teste (STG) da aplicação Stratega.
 
+O objetivo principal destes testes é avaliar a performance, estabilidade e capacidade de resposta da aplicação Stratega no ambiente de homologação (STG), simulando diferentes níveis de carga e uso simultâneo de usuários.
+Os testes foram estruturados para identificar:
+
+- Possíveis gargalos de performance sob uso contínuo e simultâneo;
+- Tempo médio de resposta das requisições;
+- Capacidade do sistema em manter a estabilidade sem apresentar falhas ou erros;
+- Impacto da carga no tempo de resposta em cenários moderados e de estresse.
+
 ## Ambiente testado
 
 [http://map.sit.internal-quattrus.com/editor](http://map.sit.internal-quattrus.com/editor)
