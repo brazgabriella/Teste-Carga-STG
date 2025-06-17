@@ -1,8 +1,8 @@
 # Teste de Estresse - STG
 
-Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de teste (STG) da aplicação Stratega.
+Este repositório contém os testes de performance realizados com o Apache JMeter nos ambientes de teste da aplicação Stratega.
 
-O objetivo principal destes testes é avaliar a performance, estabilidade e capacidade de resposta da aplicação Stratega no ambiente de homologação (STG), simulando diferentes níveis de carga e uso simultâneo de usuários.
+O objetivo principal destes testes é avaliar a performance, estabilidade e capacidade de resposta da aplicação Stratega nos ambientes, simulando diferentes níveis de carga e uso simultâneo de usuários.
 Os testes foram estruturados para identificar:
 
 - Possíveis gargalos de performance sob uso contínuo e simultâneo;
