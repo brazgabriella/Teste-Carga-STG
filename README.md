@@ -8,7 +8,7 @@ Este repositório contém os testes de performance realizados com o Apache JMete
 
 ## Estrutura do repositório
 
-- `Scripts/` → Contém os arquivos `.jmx` utilizados para simulação de carga e estresse.
+- `Scripts/` → Contém os arquivos `.jmx` utilizados para simulação de carga e estresse, e os Dashboards de cada teste.
 - `Imagens/` → Prints dos testes, configurações e evidências visuais.
 - `README.md` → Este arquivo de documentação.
 
