@@ -29,9 +29,9 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 - Carga contínua por 60 minutos
 
 ## 2° Teste:
-- Carga moderada (xxx usuários)
-- Estresse elevado (xxx usuários)
-- Carga contínua por (xxx minutos)
+`Ambiente Testado:` [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
+- Carga (50 usuários, ramp-up 10 segundos, 1 execução.)
+- Estresse (100 usuários, ramp-up 30 segundos, múltiplas iterações.)
 
 
 
