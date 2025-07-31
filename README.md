@@ -12,7 +12,7 @@ Os testes foram estruturados para identificar:
 
 ## Ambiente testado
 
-[http://map.sit.internal-quattrus.com/editor](http://map.sit.internal-quattrus.com/editor)
+ [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
 
 ## Estrutura do repositório
 
