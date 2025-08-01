@@ -26,16 +26,20 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 ## 1° Teste:
 `Ambiente Testado:` [http://map.sit.internal-quattrus.com/editor](http://map.sit.internal-quattrus.com/editor)
 
-- Carga moderada (50 usuários)
-- Estresse elevado (200 usuários)
-- Carga contínua por 60 minutos
+| Cenário                          |                                         |
+| -------------------------------- | ----------------------------------------|
+| Teste de carga Moderada          | `Carga - 50 Usuários`                   |
+| Teste de estresse                | `Estresse - 200 Usuários Simultâneos`   |
+| Teste Carga Contínua             | `Contínua - 60 minutos`                 |
+
 
 ## 2° Teste:
 `Ambiente Testado:` [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
 
-- Carga (50 usuários, ramp-up 10 segundos, 1 execução.)
-- Estresse (100 usuários, ramp-up 20 segundos, múltiplas iterações.)
-
+| Cenário                          |         |
+| -------------------------------- | ------------------------------------------------------------- |
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                   |
+| Teste de estresse                | `Estresse - 100 Usuários Simultâneos; Ramp-up: 20 segundos`   |
 
 
 ## Ferramentas utilizadas
