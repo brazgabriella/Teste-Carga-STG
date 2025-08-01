@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1754044682621,525,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-1,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,525,0,371
+1754044682619,525,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-1,,true,,9501,511,3,3,null,525,3,371
+1754044682818,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-2,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1754044682817,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-2,,true,,9501,511,3,3,null,457,2,303
+1754044683017,455,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-3,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,455,0,301
+1754044683017,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-3,,true,,9501,511,3,3,null,455,0,301
+1754044683218,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-4,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1754044683218,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-4,,true,,9501,511,3,3,null,460,0,306
+1754044683418,455,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-5,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,455,0,301
+1754044683417,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-5,,true,,9501,511,3,3,null,455,2,301
+1754044683619,455,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-6,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,455,0,302
+1754044683618,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-6,,true,,9501,511,3,3,null,455,1,302
+1754044683815,455,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-7,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,455,0,301
+1754044683815,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-7,,true,,9501,511,3,3,null,455,0,301
+1754044684015,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-8,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,304
+1754044684015,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-8,,true,,9501,511,3,3,null,459,0,304
+1754044684215,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-9,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,469,0,302
+1754044684215,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-9,,true,,9501,511,3,3,null,469,0,302
+1754044684417,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-10,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,467,0,303
+1754044684417,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-10,,true,,9501,511,3,3,null,467,1,303
+1754044684617,472,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-11,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,472,0,319
+1754044684617,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-11,,true,,9501,511,3,3,null,472,0,319
+1754044684818,453,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-12,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,453,0,302
+1754044684817,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-12,,true,,9501,511,3,3,null,453,2,302
+1754044685015,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-13,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,303
+1754044685015,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-13,,true,,9501,511,3,3,null,458,0,303
+1754044685217,456,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-14,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,456,0,304
+1754044685216,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-14,,true,,9501,511,3,3,null,456,1,304
+1754044685415,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-15,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,471,0,302
+1754044685415,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-15,,true,,9501,511,3,3,null,471,0,302
+1754044685616,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-16,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,311
+1754044685615,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-16,,true,,9501,511,3,3,null,462,1,311
+1754044685816,453,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-17,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,453,0,302
+1754044685816,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-17,,true,,9501,511,3,3,null,453,0,302
+1754044686017,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-18,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,465,0,312
+1754044686016,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-18,,true,,9501,511,3,3,null,465,1,312
+1754044686216,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-19,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,308
+1754044686215,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-19,,true,,9501,511,3,3,null,459,1,308
+1754044686415,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-20,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,311
+1754044686415,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-20,,true,,9501,511,3,3,null,463,0,311
+1754044686617,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-21,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,469,0,317
+1754044686617,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-21,,true,,9501,511,3,3,null,469,1,317
+1754044686817,453,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-22,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,453,0,301
+1754044686816,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-22,,true,,9501,511,3,3,null,453,2,301
+1754044687017,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-23,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1754044687016,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-23,,true,,9501,511,3,3,null,459,2,306
+1754044687217,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-24,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1754044687216,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-24,,true,,9501,511,3,3,null,462,1,306
+1754044687418,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-25,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,303
+1754044687417,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-25,,true,,9501,511,3,3,null,459,2,303
+1754044687618,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-26,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,457,0,306
+1754044687617,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-26,,true,,9501,511,3,3,null,457,1,306
+1754044687817,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-27,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1754044687816,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-27,,true,,9501,511,3,3,null,458,1,305
+1754044688016,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-28,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,311
+1754044688016,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-28,,true,,9501,511,3,3,null,462,1,311
+1754044688217,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-29,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,466,0,304
+1754044688216,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-29,,true,,9501,511,3,3,null,466,2,304
+1754044688417,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-30,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1754044688416,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-30,,true,,9501,511,3,3,null,461,1,307
+1754044688616,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-31,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,460,0,305
+1754044688616,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-31,,true,,9501,511,3,3,null,460,0,305
+1754044688816,472,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-32,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,472,0,309
+1754044688815,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-32,,true,,9501,511,3,3,null,472,1,309
+1754044689018,454,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-33,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,454,0,302
+1754044689017,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-33,,true,,9501,511,3,3,null,454,1,302
+1754044689217,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-34,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,305
+1754044689216,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-34,,true,,9501,511,3,3,null,462,1,305
+1754044689417,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-35,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,306
+1754044689416,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-35,,true,,9501,511,3,3,null,458,1,306
+1754044689618,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-36,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1754044689617,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-36,,true,,9501,511,3,3,null,460,1,307
+1754044689817,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-37,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,457,0,306
+1754044689816,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-37,,true,,9501,511,3,3,null,457,1,306
+1754044690018,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-38,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,306
+1754044690017,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-38,,true,,9501,511,3,3,null,458,1,306
+1754044690217,454,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-39,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,454,0,301
+1754044690216,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-39,,true,,9501,511,3,3,null,454,2,301
+1754044690416,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-40,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1754044690415,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-40,,true,,9501,511,3,3,null,459,1,306
+1754044690618,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-41,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,461,0,304
+1754044690617,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-41,,true,,9501,511,3,3,null,461,2,304
+1754044690818,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-42,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,467,0,309
+1754044690817,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-42,,true,,9501,511,3,3,null,467,1,309
+1754044691017,455,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-43,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,455,0,303
+1754044691016,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-43,,true,,9501,511,3,3,null,455,1,303
+1754044691218,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-44,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,471,0,307
+1754044691216,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-44,,true,,9501,511,3,3,null,471,2,307
+1754044691417,454,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-45,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,454,0,302
+1754044691416,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-45,,true,,9501,511,3,3,null,454,1,302
+1754044691616,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-46,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1754044691615,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-46,,true,,9501,511,3,3,null,458,1,304
+1754044691817,456,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-47,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,456,0,304
+1754044691816,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-47,,true,,9501,511,3,3,null,456,2,304
+1754044692016,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-48,text,true,,9501,511,3,3,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1754044692016,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-48,,true,,9501,511,3,3,null,457,0,304
+1754044692216,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-49,text,true,,9501,511,2,2,https://map.sit.sdlc-quattrus.com/editor,465,0,311
+1754044692215,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-49,,true,,9501,511,2,2,null,465,1,311
+1754044692417,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG 1-50,text,true,,9501,511,1,1,https://map.sit.sdlc-quattrus.com/editor,471,0,309
+1754044692416,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG 1-50,,true,,9501,511,1,1,null,471,2,309
