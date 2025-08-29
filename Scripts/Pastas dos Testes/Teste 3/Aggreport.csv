@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1756477038794,475,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-1,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,475,0,320
+1756477038793,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-1,,true,,9501,512,3,3,null,475,4,320
+1756477038994,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-2,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,469,0,309
+1756477038994,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-2,,true,,9501,512,3,3,null,469,1,309
+1756477039194,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-3,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1756477039193,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-3,,true,,9501,512,3,3,null,463,2,309
+1756477039394,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-4,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,468,0,313
+1756477039393,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-4,,true,,9501,512,3,3,null,468,2,313
+1756477039595,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-5,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,467,0,311
+1756477039594,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-5,,true,,9501,512,3,3,null,467,1,311
+1756477039795,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-6,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1756477039794,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-6,,true,,9501,512,3,3,null,461,2,307
+1756477039993,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-7,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,308
+1756477039992,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-7,,true,,9501,512,3,3,null,463,1,308
+1756477040193,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-8,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1756477040192,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-8,,true,,9501,512,3,3,null,462,2,308
+1756477040393,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-9,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,464,0,308
+1756477040393,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-9,,true,,9501,512,3,3,null,464,1,308
+1756477040594,524,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-10,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,524,0,325
+1756477040593,524,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-10,,true,,9501,512,3,3,null,524,3,325
+1756477040794,487,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-11,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,487,0,328
+1756477040793,487,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-11,,true,,9501,512,3,3,null,487,2,328
+1756477040994,474,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-12,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,474,0,316
+1756477040993,474,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-12,,true,,9501,512,3,3,null,474,1,316
+1756477041194,490,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-13,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,490,0,335
+1756477041193,490,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-13,,true,,9501,512,3,3,null,490,2,335
+1756477041392,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-14,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,469,0,312
+1756477041391,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-14,,true,,9501,512,3,3,null,469,2,312
+1756477041594,484,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-15,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,484,0,316
+1756477041593,484,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-15,,true,,9501,512,3,3,null,484,1,316
+1756477041795,482,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-16,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,482,0,326
+1756477041793,482,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-16,,true,,9501,512,3,3,null,482,3,326
+1756477041993,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-17,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,464,0,310
+1756477041992,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-17,,true,,9501,512,3,3,null,464,1,310
+1756477042193,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-18,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,310
+1756477042192,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-18,,true,,9501,512,3,3,null,463,2,310
+1756477042393,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-19,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,471,0,317
+1756477042392,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-19,,true,,9501,512,3,3,null,471,1,317
+1756477042593,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-20,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,464,0,310
+1756477042592,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-20,,true,,9501,512,3,3,null,464,2,310
+1756477042792,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-21,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1756477042791,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-21,,true,,9501,512,3,3,null,458,2,304
+1756477042993,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-22,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,465,0,311
+1756477042992,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-22,,true,,9501,512,3,3,null,465,1,311
+1756477043193,474,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-23,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,474,0,317
+1756477043192,474,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-23,,true,,9501,512,3,3,null,474,2,317
+1756477043393,479,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-24,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,479,0,312
+1756477043392,479,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-24,,true,,9501,512,3,3,null,479,2,312
+1756477043593,477,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-25,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,477,0,322
+1756477043592,477,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-25,,true,,9501,512,3,3,null,477,2,322
+1756477043793,478,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-26,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,478,0,315
+1756477043792,478,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-26,,true,,9501,512,3,3,null,478,2,315
+1756477043994,475,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-27,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,475,0,319
+1756477043993,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-27,,true,,9501,512,3,3,null,475,2,319
+1756477044195,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-28,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,310
+1756477044194,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-28,,true,,9501,512,3,3,null,463,2,310
+1756477044394,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-29,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,466,0,312
+1756477044393,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-29,,true,,9501,512,3,3,null,466,2,312
+1756477044594,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-30,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1756477044593,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-30,,true,,9501,512,3,3,null,462,2,307
+1756477044794,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-31,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1756477044793,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-31,,true,,9501,512,3,3,null,462,2,307
+1756477044993,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-32,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,469,0,314
+1756477044993,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-32,,true,,9501,512,3,3,null,469,1,314
+1756477045194,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-33,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,468,0,312
+1756477045193,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-33,,true,,9501,512,3,3,null,468,1,312
+1756477045395,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-34,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,466,0,307
+1756477045394,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-34,,true,,9501,512,3,3,null,466,2,307
+1756477045594,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-35,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,466,0,309
+1756477045594,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-35,,true,,9501,512,3,3,null,466,1,309
+1756477045793,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-36,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,305
+1756477045793,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-36,,true,,9501,512,3,3,null,462,0,305
+1756477045996,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-37,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,467,0,313
+1756477045994,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-37,,true,,9501,512,3,3,null,467,2,313
+1756477046195,473,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-38,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,473,0,307
+1756477046195,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-38,,true,,9501,512,3,3,null,473,1,307
+1756477046395,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-39,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,467,0,313
+1756477046394,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-39,,true,,9501,512,3,3,null,467,1,313
+1756477046595,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-40,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,465,0,308
+1756477046593,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-40,,true,,9501,512,3,3,null,465,3,308
+1756477046794,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-41,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1756477046793,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-41,,true,,9501,512,3,3,null,460,2,306
+1756477046995,475,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-42,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,475,0,320
+1756477046994,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-42,,true,,9501,512,3,3,null,475,2,320
+1756477047195,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-43,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1756477047193,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-43,,true,,9501,512,3,3,null,459,2,306
+1756477047393,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-44,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1756477047393,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-44,,true,,9501,512,3,3,null,462,0,308
+1756477047596,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-45,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,468,0,309
+1756477047594,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-45,,true,,9501,512,3,3,null,468,2,309
+1756477047795,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-46,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,465,0,309
+1756477047794,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-46,,true,,9501,512,3,3,null,465,2,309
+1756477048009,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-47,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,463,0,310
+1756477048007,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-47,,true,,9501,512,3,3,null,463,3,310
+1756477048196,472,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-48,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,472,0,316
+1756477048195,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-48,,true,,9501,512,3,3,null,472,2,316
+1756477048398,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-49,text,true,,9501,512,2,2,https://map.sit.sdlc-quattrus.com/editor,465,0,308
+1756477048396,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-49,,true,,9501,512,2,2,null,465,3,308
+1756477048599,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,Stratega Carga  1-50,text,true,,9501,512,1,1,https://map.sit.sdlc-quattrus.com/editor,467,0,312
+1756477048598,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Stratega Carga  1-50,,true,,9501,512,1,1,null,467,3,312
