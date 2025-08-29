@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 499.74999999999994,
+    "medianResTime" : 475.0,
+    "minResTime" : 457.0,
+    "maxResTime" : 734.0,
+    "pct1ResTime" : 564.8,
+    "pct2ResTime" : 632.75,
+    "pct3ResTime" : 724.9200000000001,
+    "throughput" : 9.76228828037292,
+    "receivedKBytesPerSec" : 90.57763764826475,
+    "sentKBytesPerSec" : 4.88114414018646
+  },
+  "https://map.sit.sdlc-quattrus.com/editor" : {
+    "transaction" : "https://map.sit.sdlc-quattrus.com/editor",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 499.74999999999994,
+    "medianResTime" : 475.0,
+    "minResTime" : 457.0,
+    "maxResTime" : 734.0,
+    "pct1ResTime" : 564.8,
+    "pct2ResTime" : 632.75,
+    "pct3ResTime" : 724.9200000000001,
+    "throughput" : 9.76324139614352,
+    "receivedKBytesPerSec" : 90.58648096167929,
+    "sentKBytesPerSec" : 4.88162069807176
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 499.74999999999994,
+    "medianResTime" : 475.0,
+    "minResTime" : 457.0,
+    "maxResTime" : 734.0,
+    "pct1ResTime" : 564.8,
+    "pct2ResTime" : 632.75,
+    "pct3ResTime" : 724.9200000000001,
+    "throughput" : 9.76324139614352,
+    "receivedKBytesPerSec" : 90.58648096167929,
+    "sentKBytesPerSec" : 4.88162069807176
+  }
+}
