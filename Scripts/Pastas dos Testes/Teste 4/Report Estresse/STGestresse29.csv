@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759169887576,572,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-1,text,true,,9501,512,6,6,https://map.sit.sdlc-quattrus.com/editor,572,0,417
+1759169887678,470,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-2,text,true,,9501,512,6,6,https://map.sit.sdlc-quattrus.com/editor,470,0,314
+1759169887677,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-2,,true,,9501,512,6,6,null,470,2,314
+1759169887575,572,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-1,,true,,9501,512,6,6,null,572,2,417
+1759169887776,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-3,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1759169887775,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-3,,true,,9501,512,5,5,null,462,1,307
+1759169887879,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-4,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169887878,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-4,,true,,9501,512,5,5,null,459,2,305
+1759169887977,469,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-5,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,469,0,304
+1759169887976,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-5,,true,,9501,512,5,5,null,469,2,304
+1759169888077,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-6,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169888077,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-6,,true,,9501,512,5,5,null,459,1,305
+1759169888185,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-7,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169888184,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-7,,true,,9501,512,5,5,null,462,1,308
+1759169888285,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-8,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169888285,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-8,,true,,9501,512,5,5,null,460,0,307
+1759169888378,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-9,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1759169888377,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-9,,true,,9501,512,5,5,null,457,2,304
+1759169888477,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-10,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,471,0,317
+1759169888476,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-10,,true,,9501,512,5,5,null,471,2,317
+1759169888581,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-11,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169888581,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-11,,true,,9501,512,5,5,null,459,1,305
+1759169888684,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-12,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,307
+1759169888683,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-12,,true,,9501,512,5,5,null,464,1,307
+1759169888774,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-13,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1759169888773,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-13,,true,,9501,512,5,5,null,462,2,306
+1759169888877,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-14,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,467,0,312
+1759169888876,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-14,,true,,9501,512,5,5,null,467,1,312
+1759169888983,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-15,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169888982,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-15,,true,,9501,512,5,5,null,462,2,308
+1759169889082,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-16,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169889081,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-16,,true,,9501,512,5,5,null,460,2,306
+1759169889174,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-17,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169889173,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-17,,true,,9501,512,5,5,null,459,1,305
+1759169889275,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-18,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169889274,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-18,,true,,9501,512,5,5,null,459,1,305
+1759169889380,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-19,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,304
+1759169889380,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-19,,true,,9501,512,5,5,null,461,1,304
+1759169889482,456,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-20,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,456,0,303
+1759169889481,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-20,,true,,9501,512,5,5,null,456,1,303
+1759169889574,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-21,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169889573,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-21,,true,,9501,512,5,5,null,459,2,305
+1759169889676,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-22,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169889675,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-22,,true,,9501,512,5,5,null,461,2,306
+1759169889780,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-23,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,308
+1759169889779,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-23,,true,,9501,512,5,5,null,464,2,308
+1759169889880,456,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-24,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,456,0,302
+1759169889879,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-24,,true,,9501,512,5,5,null,456,2,302
+1759169889975,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-25,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,309
+1759169889974,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-25,,true,,9501,512,5,5,null,464,2,309
+1759169890080,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-26,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1759169890079,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-26,,true,,9501,512,5,5,null,457,2,304
+1759169890179,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-27,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,305
+1759169890179,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-27,,true,,9501,512,5,5,null,460,1,305
+1759169890278,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-28,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,468,0,314
+1759169890277,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-28,,true,,9501,512,5,5,null,468,2,314
+1759169890373,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-29,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,471,0,316
+1759169890373,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-29,,true,,9501,512,5,5,null,471,1,316
+1759169890475,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-30,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169890474,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-30,,true,,9501,512,5,5,null,459,1,305
+1759169890577,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-31,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,306
+1759169890577,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-31,,true,,9501,512,5,5,null,465,0,306
+1759169890709,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-32,text,true,,9501,512,6,6,https://map.sit.sdlc-quattrus.com/editor,471,0,316
+1759169890708,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-32,,true,,9501,512,6,6,null,471,1,316
+1759169890777,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-33,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169890775,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-33,,true,,9501,512,5,5,null,461,2,306
+1759169890878,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-34,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,471,0,317
+1759169890876,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-34,,true,,9501,512,5,5,null,471,3,317
+1759169890985,476,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-35,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,476,0,320
+1759169890978,476,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-35,,true,,9501,512,5,5,null,476,7,320
+1759169891080,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-36,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,305
+1759169891079,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-36,,true,,9501,512,5,5,null,462,1,305
+1759169891177,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-37,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169891175,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-37,,true,,9501,512,5,5,null,462,2,308
+1759169891276,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-38,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169891274,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-38,,true,,9501,512,5,5,null,461,2,306
+1759169891377,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-39,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169891376,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-39,,true,,9501,512,5,5,null,460,2,307
+1759169891475,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-40,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169891475,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-40,,true,,9501,512,5,5,null,458,1,304
+1759169891579,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-41,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1759169891578,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-41,,true,,9501,512,5,5,null,457,1,303
+1759169891676,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-42,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169891675,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-42,,true,,9501,512,5,5,null,461,1,307
+1759169891775,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-43,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169891775,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-43,,true,,9501,512,5,5,null,458,0,304
+1759169891879,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-44,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169891879,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-44,,true,,9501,512,5,5,null,459,0,305
+1759169891974,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-45,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169891973,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-45,,true,,9501,512,5,5,null,458,2,304
+1759169892074,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-46,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,466,0,313
+1759169892073,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-46,,true,,9501,512,5,5,null,466,1,313
+1759169892179,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-47,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169892178,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-47,,true,,9501,512,5,5,null,461,1,307
+1759169892279,456,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-48,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,456,0,303
+1759169892278,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-48,,true,,9501,512,5,5,null,456,1,303
+1759169892380,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-49,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169892378,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-49,,true,,9501,512,5,5,null,458,3,305
+1759169892474,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-50,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169892473,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-50,,true,,9501,512,5,5,null,459,1,305
+1759169892578,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-51,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169892578,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-51,,true,,9501,512,5,5,null,458,0,305
+1759169892679,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-52,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169892676,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-52,,true,,9501,512,5,5,null,460,4,306
+1759169892776,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-53,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169892775,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-53,,true,,9501,512,5,5,null,459,1,305
+1759169892877,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-54,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,311
+1759169892877,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-54,,true,,9501,512,5,5,null,465,0,311
+1759169892978,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-55,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1759169892977,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-55,,true,,9501,512,5,5,null,462,1,306
+1759169893076,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-56,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,305
+1759169893074,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-56,,true,,9501,512,5,5,null,461,2,305
+1759169893175,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-57,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169893175,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-57,,true,,9501,512,5,5,null,458,0,305
+1759169893275,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-58,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,306
+1759169893274,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-58,,true,,9501,512,5,5,null,463,2,306
+1759169893373,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-59,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169893373,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-59,,true,,9501,512,5,5,null,463,1,309
+1759169893474,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-60,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,303
+1759169893473,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-60,,true,,9501,512,5,5,null,458,1,303
+1759169893573,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-61,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1759169893573,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-61,,true,,9501,512,5,5,null,457,0,303
+1759169893674,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-62,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1759169893674,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-62,,true,,9501,512,5,5,null,459,1,306
+1759169893775,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-63,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169893775,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-63,,true,,9501,512,5,5,null,458,0,304
+1759169893876,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-64,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,304
+1759169893875,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-64,,true,,9501,512,5,5,null,459,1,304
+1759169893974,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-65,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169893973,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-65,,true,,9501,512,5,5,null,460,2,306
+1759169894075,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-66,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1759169894074,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-66,,true,,9501,512,5,5,null,462,2,306
+1759169894176,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-67,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169894175,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-67,,true,,9501,512,5,5,null,461,2,306
+1759169894275,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-68,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,306
+1759169894274,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-68,,true,,9501,512,5,5,null,463,1,306
+1759169894374,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-69,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169894374,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-69,,true,,9501,512,5,5,null,460,1,306
+1759169894474,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-70,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,309
+1759169894473,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-70,,true,,9501,512,5,5,null,464,2,309
+1759169894574,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-71,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169894573,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-71,,true,,9501,512,5,5,null,460,2,307
+1759169894674,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-72,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169894674,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-72,,true,,9501,512,5,5,null,460,0,306
+1759169894774,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-73,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,307
+1759169894773,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-73,,true,,9501,512,5,5,null,463,1,307
+1759169894875,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-74,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,308
+1759169894873,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-74,,true,,9501,512,5,5,null,464,3,308
+1759169894975,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-75,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,308
+1759169894974,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-75,,true,,9501,512,5,5,null,461,2,308
+1759169895076,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-76,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1759169895075,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-76,,true,,9501,512,5,5,null,462,1,307
+1759169895177,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-77,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,308
+1759169895175,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-77,,true,,9501,512,5,5,null,461,3,308
+1759169895274,470,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-78,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,470,0,313
+1759169895273,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-78,,true,,9501,512,5,5,null,470,2,313
+1759169895375,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-79,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169895374,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-79,,true,,9501,512,5,5,null,460,3,307
+1759169895475,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-80,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,308
+1759169895474,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-80,,true,,9501,512,5,5,null,461,2,308
+1759169895575,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-81,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169895574,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-81,,true,,9501,512,5,5,null,462,2,308
+1759169895674,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-82,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,308
+1759169895673,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-82,,true,,9501,512,5,5,null,461,1,308
+1759169895776,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-83,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169895774,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-83,,true,,9501,512,5,5,null,459,2,305
+1759169895876,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-84,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169895874,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-84,,true,,9501,512,5,5,null,461,3,306
+1759169895975,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-85,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169895974,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-85,,true,,9501,512,5,5,null,461,1,307
+1759169896075,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-86,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,308
+1759169896074,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-86,,true,,9501,512,5,5,null,463,2,308
+1759169896174,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-87,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,307
+1759169896173,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-87,,true,,9501,512,5,5,null,463,2,307
+1759169896275,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-88,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169896275,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-88,,true,,9501,512,5,5,null,460,0,307
+1759169896375,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-89,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,467,0,309
+1759169896374,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-89,,true,,9501,512,5,5,null,467,2,309
+1759169896474,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-90,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169896473,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-90,,true,,9501,512,5,5,null,459,1,305
+1759169896575,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-91,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,305
+1759169896573,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-91,,true,,9501,512,5,5,null,461,2,305
+1759169896674,470,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-92,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,470,0,315
+1759169896674,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-92,,true,,9501,512,5,5,null,470,1,315
+1759169896774,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-93,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169896773,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-93,,true,,9501,512,5,5,null,462,2,308
+1759169896874,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-94,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1759169896873,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-94,,true,,9501,512,5,5,null,459,1,306
+1759169896975,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-95,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169896974,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-95,,true,,9501,512,5,5,null,461,1,307
+1759169897075,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-96,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169897074,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-96,,true,,9501,512,5,5,null,460,2,307
+1759169897173,475,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-97,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,475,0,306
+1759169897172,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-97,,true,,9501,512,5,5,null,475,1,306
+1759169897276,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-98,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169897275,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-98,,true,,9501,512,5,5,null,463,1,309
+1759169897376,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-99,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169897375,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-99,,true,,9501,512,5,5,null,458,2,305
+1759169897475,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-100,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169897474,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-100,,true,,9501,512,5,5,null,460,2,306
+1759169897574,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-101,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169897573,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-101,,true,,9501,512,5,5,null,458,2,304
+1759169897674,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-102,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169897674,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-102,,true,,9501,512,5,5,null,458,1,304
+1759169897775,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-103,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169897774,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-103,,true,,9501,512,5,5,null,458,1,305
+1759169897876,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-104,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1759169897875,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-104,,true,,9501,512,5,5,null,462,1,307
+1759169897975,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-105,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,311
+1759169897974,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-105,,true,,9501,512,5,5,null,465,1,311
+1759169898075,473,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-106,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,473,0,319
+1759169898073,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-106,,true,,9501,512,5,5,null,473,3,319
+1759169898175,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-107,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1759169898174,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-107,,true,,9501,512,5,5,null,457,2,304
+1759169898275,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-108,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169898274,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-108,,true,,9501,512,5,5,null,461,1,306
+1759169898385,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-109,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169898384,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-109,,true,,9501,512,5,5,null,460,2,307
+1759169898474,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-110,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169898473,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-110,,true,,9501,512,5,5,null,463,2,309
+1759169898575,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-111,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,466,0,312
+1759169898574,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-111,,true,,9501,512,5,5,null,466,2,312
+1759169898673,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-112,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169898672,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-112,,true,,9501,512,5,5,null,463,1,309
+1759169898777,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-113,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1759169898775,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-113,,true,,9501,512,5,5,null,459,2,306
+1759169898876,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-114,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169898875,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-114,,true,,9501,512,5,5,null,461,1,307
+1759169898976,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-115,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169898975,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-115,,true,,9501,512,5,5,null,458,2,304
+1759169899073,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-116,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,307
+1759169899073,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-116,,true,,9501,512,5,5,null,465,1,307
+1759169899174,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-117,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,304
+1759169899173,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-117,,true,,9501,512,5,5,null,462,1,304
+1759169899274,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-118,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169899273,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-118,,true,,9501,512,5,5,null,459,1,305
+1759169899375,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-119,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169899374,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-119,,true,,9501,512,5,5,null,460,1,306
+1759169899475,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-120,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169899474,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-120,,true,,9501,512,5,5,null,461,2,307
+1759169899574,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-121,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169899573,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-121,,true,,9501,512,5,5,null,461,2,307
+1759169899674,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-122,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,308
+1759169899673,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-122,,true,,9501,512,5,5,null,463,2,308
+1759169899775,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-123,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169899773,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-123,,true,,9501,512,5,5,null,461,2,306
+1759169899874,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-124,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169899873,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-124,,true,,9501,512,5,5,null,461,2,307
+1759169899974,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-125,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169899973,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-125,,true,,9501,512,5,5,null,463,1,309
+1759169900075,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-126,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,308
+1759169900075,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-126,,true,,9501,512,5,5,null,463,0,308
+1759169900176,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-127,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169900174,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-127,,true,,9501,512,5,5,null,460,3,306
+1759169900274,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-128,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169900273,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-128,,true,,9501,512,5,5,null,461,1,307
+1759169900374,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-129,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169900373,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-129,,true,,9501,512,5,5,null,460,2,306
+1759169900474,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-130,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169900473,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-130,,true,,9501,512,5,5,null,458,2,305
+1759169900575,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-131,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169900574,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-131,,true,,9501,512,5,5,null,461,2,307
+1759169900676,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-132,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169900675,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-132,,true,,9501,512,5,5,null,459,1,305
+1759169900774,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-133,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169900773,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-133,,true,,9501,512,5,5,null,460,1,306
+1759169900875,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-134,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169900874,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-134,,true,,9501,512,5,5,null,458,1,304
+1759169900975,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-135,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169900974,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-135,,true,,9501,512,5,5,null,461,1,307
+1759169901076,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-136,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169901074,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-136,,true,,9501,512,5,5,null,461,2,306
+1759169901174,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-137,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169901173,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-137,,true,,9501,512,5,5,null,460,2,306
+1759169901274,470,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-138,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,470,0,307
+1759169901273,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-138,,true,,9501,512,5,5,null,470,2,307
+1759169901375,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-139,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169901374,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-139,,true,,9501,512,5,5,null,461,1,307
+1759169901475,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-140,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169901474,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-140,,true,,9501,512,5,5,null,462,1,308
+1759169901575,477,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-141,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,477,0,322
+1759169901573,477,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-141,,true,,9501,512,5,5,null,477,3,322
+1759169901674,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-142,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,308
+1759169901672,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-142,,true,,9501,512,5,5,null,461,2,308
+1759169901775,473,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-143,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,473,0,319
+1759169901774,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-143,,true,,9501,512,5,5,null,473,2,319
+1759169901876,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-144,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,309
+1759169901875,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-144,,true,,9501,512,5,5,null,463,1,309
+1759169901974,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-145,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1759169901972,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-145,,true,,9501,512,5,5,null,457,3,303
+1759169902074,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-146,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,309
+1759169902073,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-146,,true,,9501,512,5,5,null,464,1,309
+1759169902175,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-147,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,309
+1759169902174,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-147,,true,,9501,512,5,5,null,461,2,309
+1759169902276,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-148,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,307
+1759169902275,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-148,,true,,9501,512,5,5,null,463,2,307
+1759169902375,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-149,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1759169902373,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-149,,true,,9501,512,5,5,null,462,2,306
+1759169902473,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-150,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1759169902472,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-150,,true,,9501,512,5,5,null,457,2,303
+1759169902575,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-151,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169902574,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-151,,true,,9501,512,5,5,null,458,2,304
+1759169902675,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-152,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,304
+1759169902674,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-152,,true,,9501,512,5,5,null,459,1,304
+1759169902775,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-153,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,309
+1759169902774,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-153,,true,,9501,512,5,5,null,464,1,309
+1759169902875,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-154,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169902875,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-154,,true,,9501,512,5,5,null,460,0,307
+1759169902976,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-155,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169902973,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-155,,true,,9501,512,5,5,null,460,4,306
+1759169903083,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-156,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,307
+1759169903079,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-156,,true,,9501,512,5,5,null,462,4,307
+1759169903175,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-157,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,303
+1759169903174,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-157,,true,,9501,512,5,5,null,461,1,303
+1759169903275,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-158,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169903274,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-158,,true,,9501,512,5,5,null,461,2,307
+1759169903376,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-159,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169903375,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-159,,true,,9501,512,5,5,null,461,1,307
+1759169903474,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-160,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1759169903473,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-160,,true,,9501,512,5,5,null,459,1,306
+1759169903574,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-161,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,304
+1759169903573,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-161,,true,,9501,512,5,5,null,458,1,304
+1759169903675,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-162,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1759169903674,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-162,,true,,9501,512,5,5,null,457,2,304
+1759169903775,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-163,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,304
+1759169903774,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-163,,true,,9501,512,5,5,null,457,2,304
+1759169903874,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-164,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,304
+1759169903873,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-164,,true,,9501,512,5,5,null,459,1,304
+1759169903974,457,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-165,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,457,0,303
+1759169903973,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-165,,true,,9501,512,5,5,null,457,1,303
+1759169904073,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-166,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,306
+1759169904072,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-166,,true,,9501,512,5,5,null,459,2,306
+1759169904174,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-167,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169904173,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-167,,true,,9501,512,5,5,null,458,2,305
+1759169904275,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-168,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169904274,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-168,,true,,9501,512,5,5,null,460,2,306
+1759169904376,467,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-169,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,467,0,313
+1759169904375,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-169,,true,,9501,512,5,5,null,467,1,313
+1759169904474,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-170,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,311
+1759169904472,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-170,,true,,9501,512,5,5,null,465,2,311
+1759169904573,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-171,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169904572,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-171,,true,,9501,512,5,5,null,461,1,307
+1759169904673,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-172,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,468,0,315
+1759169904672,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-172,,true,,9501,512,5,5,null,468,2,315
+1759169904775,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-173,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169904774,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-173,,true,,9501,512,5,5,null,461,1,306
+1759169904874,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-174,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169904873,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-174,,true,,9501,512,5,5,null,461,1,307
+1759169904974,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-175,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,306
+1759169904972,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-175,,true,,9501,512,5,5,null,462,3,306
+1759169905074,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-176,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,306
+1759169905073,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-176,,true,,9501,512,5,5,null,461,2,306
+1759169905175,468,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-177,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,468,0,310
+1759169905174,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-177,,true,,9501,512,5,5,null,468,1,310
+1759169905275,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-178,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169905274,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-178,,true,,9501,512,5,5,null,460,2,306
+1759169905375,459,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-179,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,459,0,305
+1759169905374,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-179,,true,,9501,512,5,5,null,459,2,305
+1759169905475,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-180,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169905473,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-180,,true,,9501,512,5,5,null,462,3,308
+1759169905574,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-181,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169905573,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-181,,true,,9501,512,5,5,null,460,2,307
+1759169905674,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-182,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,307
+1759169905673,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-182,,true,,9501,512,5,5,null,461,1,307
+1759169905774,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-183,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,310
+1759169905772,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-183,,true,,9501,512,5,5,null,464,2,310
+1759169905875,462,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-184,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,462,0,308
+1759169905874,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-184,,true,,9501,512,5,5,null,462,1,308
+1759169905976,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-185,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,471,0,312
+1759169905974,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-185,,true,,9501,512,5,5,null,471,2,312
+1759169906075,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-186,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169906074,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-186,,true,,9501,512,5,5,null,460,2,306
+1759169906174,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-187,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,310
+1759169906173,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-187,,true,,9501,512,5,5,null,464,1,310
+1759169906274,480,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-188,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,480,0,325
+1759169906274,480,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-188,,true,,9501,512,5,5,null,480,1,325
+1759169906374,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-189,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169906373,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-189,,true,,9501,512,5,5,null,460,2,306
+1759169906474,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-190,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,465,0,308
+1759169906473,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-190,,true,,9501,512,5,5,null,465,1,308
+1759169906573,461,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-191,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,461,0,304
+1759169906572,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-191,,true,,9501,512,5,5,null,461,1,304
+1759169906675,471,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-192,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,471,0,310
+1759169906674,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-192,,true,,9501,512,5,5,null,471,1,310
+1759169906775,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-193,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,463,0,306
+1759169906774,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-193,,true,,9501,512,5,5,null,463,1,306
+1759169906873,464,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-194,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,464,0,306
+1759169906872,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-194,,true,,9501,512,5,5,null,464,1,306
+1759169906973,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-195,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,460,0,307
+1759169906972,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-195,,true,,9501,512,5,5,null,460,1,307
+1759169907075,466,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-196,text,true,,9501,512,5,5,https://map.sit.sdlc-quattrus.com/editor,466,0,313
+1759169907074,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-196,,true,,9501,512,5,5,null,466,2,313
+1759169907175,460,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-197,text,true,,9501,512,4,4,https://map.sit.sdlc-quattrus.com/editor,460,0,306
+1759169907173,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-197,,true,,9501,512,4,4,null,460,3,306
+1759169907273,458,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-198,text,true,,9501,512,3,3,https://map.sit.sdlc-quattrus.com/editor,458,0,305
+1759169907272,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-198,,true,,9501,512,3,3,null,458,2,305
+1759169907374,463,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-199,text,true,,9501,512,2,2,https://map.sit.sdlc-quattrus.com/editor,463,0,308
+1759169907372,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-199,,true,,9501,512,2,2,null,463,2,308
+1759169907475,465,https://map.sit.sdlc-quattrus.com/editor,200,OK,STG ESTRESSE 1-200,text,true,,9501,512,1,1,https://map.sit.sdlc-quattrus.com/editor,465,0,309
+1759169907474,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG ESTRESSE 1-200,,true,,9501,512,1,1,null,465,2,309
