@@ -17,6 +17,7 @@ Os testes foram estruturados para identificar:
 ## Estrutura do repositório
 
 - `Scripts/` → Contém os arquivos `.jmx` utilizados para simulação de carga e estresse, e os `Dashboards` de cada teste realizado.
+-  Para visualizar o resultados em formato HTTP Report, entrar na pasta de interesse, salvar e abrir o arquivo `index`.
 - `README.md` → Este arquivo de documentação.
 
 ## Objetivo dos testes
