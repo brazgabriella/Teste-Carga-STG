@@ -36,7 +36,7 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 ## 2° Teste:
 `Ambiente Testado:` [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
 
-| Cenário                          |         |
+| Cenário                          |                                                               |
 | -------------------------------- | ------------------------------------------------------------- |
 | Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                   |
 | Teste de estresse                | `Estresse - 100 Usuários Simultâneos; Ramp-up: 20 segundos`   |
@@ -45,10 +45,19 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 ## 3° Teste:
 `Ambiente Testado:` [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
 
-| Cenário                          |         |
+| Cenário                          |                                                               |
 | -------------------------------- | ------------------------------------------------------------- |
-| Teste de carga                   | `Carga - 200 Usuários; Ramp-up: 20 segundos`                   |
+| Teste de carga                   | `Carga - 200 Usuários; Ramp-up: 20 segundos`                  |
 | Teste de estresse                | `Estresse - 100 Usuários Simultâneos; Ramp-up: 20 segundos`   |
+
+## 4° Teste:
+`Ambiente Testado:` [https://map.sit.sdlc-quattrus.com/editor](https://map.sit.sdlc-quattrus.com/editor)
+
+| Cenário                          |                                                               |
+| -------------------------------- | ------------------------------------------------------------- |
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                   |
+| Teste de estresse                | `Estresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`   |
+
 
 ## Ferramentas utilizadas
 
